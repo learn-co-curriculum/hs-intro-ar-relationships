@@ -1,8 +1,4 @@
----
-tags: ruby advanced, kids, intro, active record
-languages: ruby
-type: intro
----
+
 
 ### Students Will Be Able To...
 * Set up has_many and belongs_to ActiveRecord relationships
