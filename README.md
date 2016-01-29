@@ -12,4 +12,4 @@
 Getting all of these tables hooked up to each other and making all of these models play nice is super important and that is where we see the magic of ActiveRecord. 
 
 
-<a href='https://learn.co/lessons/hs-intro-ar-relationships' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-ar-relationships' title='Students Will Be Able To...'>Students Will Be Able To...</a> on Learn.co and start learning to code for free.</p>
